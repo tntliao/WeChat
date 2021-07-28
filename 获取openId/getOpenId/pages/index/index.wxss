@@ -1,0 +1,5 @@
+/* pages/index/index.wxss */
+view{
+  margin: 100rpx 0;
+  text-align: center;
+}
